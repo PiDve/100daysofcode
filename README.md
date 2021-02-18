@@ -1,7 +1,7 @@
 # 100daysofcode
 100 dias de código
 
-Principais tecnologias, como: 
+Principais tecnologias: 
 .net (MVC e WebApi), 
 ReactJs, 
 Redux, 
