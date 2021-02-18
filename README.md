@@ -26,3 +26,23 @@ AWS,
 Google Cloud, 
 Microsoft Azure 
 e DevOps 
+
+Front-End
+			"CSS3",
+			"HTML5",
+			"jQuery",
+			"KnockoutJS",
+			"Bootstrap",
+			"React Native",
+			"ReactJS",		
+			"Oracle Commerce Cloud",
+			"Magento",
+			"Grunt",
+			"Gulp",
+			"Webpack",
+			"SASS",
+			"LESS",
+			"SQL",
+			"Node",
+			"Typescript",
+			"Kotlin",
